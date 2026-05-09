@@ -51,3 +51,34 @@ data/processed/
 # Logs
 *.log
 logs/
+
+# Additional ML artifacts
+*.onnx
+*.hdf5
+*.pb
+*.tflite
+.mlflow/
+lightning_logs/
+ray_results/
+checkpoints/
+outputs/
+models/
+
+# Additional secrets
+.env.local
+.env.*
+*.key
+*.pem
+service_account.json
+config.ini
+
+# Additional Python
+.eggs/
+.conda/
+.pyenv/
+
+# Data
+*.tsv
+*.feather
+*.sqlite3
+*.arrow

@@ -1,0 +1,7 @@
+anthropic
+sentence-transformers
+transformers
+peft
+torch
+datasets
+jupyter

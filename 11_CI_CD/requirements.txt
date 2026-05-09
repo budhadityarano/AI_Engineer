@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+scikit-learn
+numpy
+pandas
+mlflow
+prefect

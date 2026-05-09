@@ -1,0 +1,7 @@
+boto3
+google-cloud-aiplatform
+azure-ai-ml
+fastapi
+uvicorn
+streamlit
+requests

@@ -1,0 +1,10 @@
+anthropic
+faiss-cpu
+chromadb
+sentence-transformers
+rank-bm25
+ragas
+langchain
+langchain-anthropic
+langchain-community
+jupyter
